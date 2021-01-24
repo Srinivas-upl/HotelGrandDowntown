@@ -1,7 +1,6 @@
 # HotelGrandDowntown
 Landing Page for HotelGrandDowntown
-![](images/ss1.jpg)
-![](images/ss2.jpg)
+Vist @ https://srinivas-upl.github.io/HotelGrandDowntown/
+
 ![](images/ss3.jpg)
-![](images/ss4.jpg)
-![](images/ss5.jpg)
+
